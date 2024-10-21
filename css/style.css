@@ -2,3 +2,7 @@
 .container h5{
     font-weight: 300;
 }
+
+/* .container .row, .container [class^="col"]{
+    border: 1px solid red;
+} */
